@@ -119,12 +119,13 @@ html, body{
   .nav_bar{
     width: auto;
     height: 50px;
+    background-color:#baffba;
   }
   .logo_conatiner{
     display: none;
   }
   .main_heading{
-    color: #510364;
+    color: #63035a;
     font-size: 3vw;
     font-weight: 800;
   }
@@ -134,14 +135,14 @@ html, body{
   .nav_bar #menu_bar{
     display: block;
     padding-left: 30px;
-
   }
   .search_bar input{
     width: 70px;
   }
  .main_content{
   width: 100%;
-  height: 50%;
+  height: auto;
+  background-color:#e3faff;
  }
   .main_box{
     width: auto;
@@ -151,11 +152,10 @@ html, body{
     line-height: 6vw;
   }
   .main_box h1{
-    font-size:5vw;
-
+    font-size:6vw;
+    padding:10px;
   }
   .main_box p{
-    font-size: 3vw;
+    font-size: 5vw;
   }
 }
-
