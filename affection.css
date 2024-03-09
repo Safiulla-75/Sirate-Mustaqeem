@@ -127,5 +127,14 @@
   .search_bar input{
     width: 140px;
   }
+ .affection_container h1{
+    font-size: 7vw;
+  }
+  .affection_container address {
+    font-size: 4.8vw;
+  }
+.affection_box ,.arabic_latter  {
+    font-size: 6vw;
+  }
   
 }
